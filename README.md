@@ -36,9 +36,10 @@
   <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Datalens-white?logo=Datalens&style=for-the-badge" title="DataLens" alt="DataLens" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=Apache%20Airflow&logoColor=black" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API" title="API" alt="API" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"title="Microsoft_Excel" alt="Microsoft_Excel" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Power%20Pivot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" title="Power Pivot" alt="Power Pivot" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" title="Power Query" alt="Power Query" height="40"/>; 
 </div>
 
 ---
@@ -47,5 +48,7 @@
 
 | Название проекта | Описание проекта | Стек |
 |----------------|-----------------|------|
-|[A/В-тестирование новой механики оплаты на сайте](https://github.com/EvKuznets/A-B-test-payment)|В ходе тестирования одной гипотезы целевой группе была предложена новая механика оплаты услуг на сайте, у контрольной группы оставалась базовая механика. Анализ итогов эксперимента и вывод, стоит ли запускать новую механику оплаты на всех пользователей.|**Python** **Pandas** **Numpy** **Scipy** **Matplotlib** **Pingouin**|
+|[A/В-тестирование новой механики оплаты на сайте](https://github.com/EvKuznets/A-B-test-payment)|В ходе тестирования одной гипотезы целевой группе была предложена новая механика оплаты услуг на сайте, у контрольной группы оставалась базовая механика. Проект представляет собой анализ итогов эксперимента и вывод, стоит ли запускать новую механику оплаты на всех пользователей.|**Python** **Pandas** **Numpy** **Scipy** **Matplotlib** **Pingouin**|
 |[Анализ продуктовых метрик](https://github.com/EvKuznets/Analysis_of_product_metrics)|Аналитический проект для стартапа-маркетплейса, специализирующегося на товарах из Бразилии. Цель — выявить точки роста выручки и конверсии через анализ пользовательского поведения, ассортимента и воронки продаж.|**Python** **Pandas** **Numpy** **Scipy** **Matplotlib** **Pingouin**|
+|[Автоматизация зарплатной отчётности](https://github.com/EvKuznets/Automation_of_payroll_reporting)|Проект направлен на автоматизацию расчёта и анализа зарплатной отчётности на основе данных о выплатах, численности персонала и организационной структуре компании. Задача включала объединение данных из нескольких источников, построение модели данных и разработку интерактивной отчётности.| **Microsoft_Excel** **Power Pivot** **Power Query**|
+|[Анализ образовательной платформы](https://github.com/EvKuznets/Analysis_of_the_educational_platform)| Анализ данных образовательной платформы, которая предлагает студентам пройти курсы по модели trial. Команда провела эксперимент с новым экраном оплаты, и теперь необходимо проанализировать данные для получения ценных инсайтов.|**SQL** **PostgreSQL** **Redash**|
